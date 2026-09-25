@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Computer Science Final Exam Atlas</title>
+  <style>
+    :root {
+      --ink: #17202a;
+      --muted: #64707d;
+      --paper: #fbfaf6;
+      --line: #d9d8d1;
+      --navy: #17324d;
+      --teal: #0b7a75;
+      --coral: #e86f51;
+      --gold: #e7b44a;
+      --shadow: 0 18px 50px rgba(23, 50, 77, .10);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 5%, rgba(231, 180, 74, .20), transparent 24rem),
+        radial-gradient(circle at 92% 20%, rgba(11, 122, 117, .13), transparent 28rem),
+        var(--paper);
+      font-family: Georgia, 'Times New Roman', serif;
+      line-height: 1.55;
+    }
+
+    .shell { width: min(1240px, calc(100% - 36px)); margin: auto; }
+
+    .hero {
+      padding: 76px 0 46px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--coral);
+      font: 700 .78rem/1.2 Arial, sans-serif;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      max-width: 850px;
+      margin: 0;
+      color: var(--navy);
+      font-size: clamp(2.7rem, 7vw, 6rem);
+      line-height: .98;
+      letter-spacing: 0;
+    }
+
+    .hero-copy {
+      max-width: 720px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font: 1.08rem/1.7 Arial, sans-serif;
+    }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 14px;
+      padding: 24px 0;
+    }
+
+    .search {
+      flex: 1 1 280px;
+      min-height: 48px;
+      padding: 0 16px;
+      border: 1px solid var(--line);
+      border-radius: 7px;
+      background: rgba(255, 255, 255, .78);
+      color: var(--ink);
+      font: 1rem Arial, sans-serif;
+      outline: none;
+    }
+
+    .search:focus { border-color: var(--teal); box-shadow: 0 0 0 3px rgba(11, 122, 117, .14); }
+
+    .jump-list { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    .jump-list a {
+      padding: 9px 12px;
+      border: 1px solid var(--line);
+      border-radius: 5px;
+      color: var(--navy);
+      background: #fff;
+      font: 700 .82rem Arial, sans-serif;
+      text-decoration: none;
+    }
+
+    .jump-list a:hover { border-color: var(--teal); color: var(--teal); }
+
+    main { padding-bottom: 80px; }
+
+    .unit {
+      margin: 22px 0 30px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, .76);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      animation: rise .55s ease both;
+    }
+
+    .unit:nth-child(2) { animation-delay: .05s; }
+    .unit:nth-child(3) { animation-delay: .1s; }
+    .unit:nth-child(4) { animation-delay: .15s; }
+    .unit:nth-child(5) { animation-delay: .2s; }
+    .unit:nth-child(6) { animation-delay: .25s; }
+    .unit:nth-child(7) { animation-delay: .3s; }
+
+    .unit-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      align-items: end;
+      padding: 25px 28px 20px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .unit-number { margin: 0 0 4px; color: var(--coral); font: 700 .78rem Arial, sans-serif; letter-spacing: .1em; text-transform: uppercase; }
+    h2 { margin: 0; color: var(--navy); font-size: clamp(1.55rem, 3vw, 2.35rem); line-height: 1.05; }
+    .source { margin: 0; color: var(--muted); font: .8rem Arial, sans-serif; text-align: right; }
+
+    .unit-body { padding: 0; }
+
+    .notes-frame {
+      display: block;
+      width: 100%;
+      min-height: 520px;
+      border: 0;
+      background: #fff;
+    }
+
+    .unit[data-unit="3"] .notes-frame { min-height: 780px; }
+
+    .empty { display: none; padding: 35px; color: var(--muted); font: 1rem Arial, sans-serif; text-align: center; }
+
+    footer { padding: 0 0 50px; color: var(--muted); font: .85rem Arial, sans-serif; }
+
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+    @media (max-width: 700px) {
+      .shell { width: min(100% - 24px, 1240px); }
+      .hero { padding-top: 48px; }
+      .unit-head { display: block; padding: 21px 18px 17px; }
+      .source { margin-top: 10px; text-align: left; }
+      .notes-frame { min-height: 620px; }
+      .unit[data-unit="3"] .notes-frame { min-height: 720px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <p class="eyebrow">Computer Science · Final Exam Revision</p>
+      <h1>Computer Science<br />Final Exam Atlas</h1>
+      <p class="hero-copy">All seven units in one calm, searchable study space. Read the theory notes, jump between chapters, and open every Unit 3 practical from the complete practicals collection.</p>
+    </div>
+  </header>
+
+  <div class="shell">
+    <div class="toolbar" aria-label="Study controls">
+      <input class="search" id="unitSearch" type="search" placeholder="Filter units by topic or unit number..." aria-label="Filter units" />
+      <nav class="jump-list" aria-label="Jump to unit">
+        <a href="#unit-1">U1</a><a href="#unit-2">U2</a><a href="#unit-3">U3</a><a href="#unit-4">U4</a><a href="#unit-5">U5</a><a href="#unit-6">U6</a><a href="#unit-7">U7</a>
+      </nav>
+    </div>
+
+    <main id="atlas">
+      <section class="unit" id="unit-1" data-unit="1" data-search="unit 1 computer systems data communication hardware cpu storage generations">
+        <div class="unit-head"><div><p class="unit-number">Unit 01</p><h2>Computer Systems &amp; Data Communication</h2></div><p class="source">Source: unit 1.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 1 notes" src="unit%201.txt"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-2" data-unit="2" data-search="unit 2 problem solving computational thinking algorithms flowcharts ipo">
+        <div class="unit-head"><div><p class="unit-number">Unit 02</p><h2>Problem Solving &amp; Computational Thinking</h2></div><p class="source">Source: unit 2.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 2 notes" src="unit%202.txt"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-3" data-unit="3" data-search="unit 3 html javascript practicals arrays loops factorial exam code">
+        <div class="unit-head"><div><p class="unit-number">Unit 03 · Coding</p><h2>HTML &amp; JavaScript Practicals</h2></div><p class="source">Source: final_exam_study_all_practicals.html</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 3 practicals" src="unit%203%20%20coding/final_exam_study_all_practicals.html"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-4" data-unit="4" data-search="unit 4 data science big data datasets databases analytics statistics probability">
+        <div class="unit-head"><div><p class="unit-number">Unit 04</p><h2>Data Science &amp; Big Data</h2></div><p class="source">Source: unit 4.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 4 notes" src="unit%204.txt"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-5" data-unit="5" data-search="unit 5 artificial intelligence machine learning computer vision nlp robotics cloud">
+        <div class="unit-head"><div><p class="unit-number">Unit 05</p><h2>Applications of Computer Science</h2></div><p class="source">Source: unit 5.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 5 notes" src="unit%205.txt"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-6" data-unit="6" data-search="unit 6 safety security privacy malware laws innovation responsible computing">
+        <div class="unit-head"><div><p class="unit-number">Unit 06</p><h2>Safe &amp; Responsible Use of Computer</h2></div><p class="source">Source: unit 6.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 6 notes" src="unit%206.txt"></iframe></div>
+      </section>
+
+      <section class="unit" id="unit-7" data-unit="7" data-search="unit 7 entrepreneurship design thinking business plan market analysis smart swot">
+        <div class="unit-head"><div><p class="unit-number">Unit 07</p><h2>Entrepreneurship</h2></div><p class="source">Source: unit 7.txt</p></div>
+        <div class="unit-body"><iframe class="notes-frame" title="Unit 7 notes" src="unit%207.txt"></iframe></div>
+      </section>
+
+      <p class="empty" id="emptyState">No unit matches that search. Try a unit number or a topic such as “AI”, “flowchart”, or “business”.</p>
+    </main>
+    <footer>Study atlas assembled from the existing unit notes. Unit 3 uses only the complete practicals page requested for coding revision.</footer>
+  </div>
+
+  <script>
+    const search = document.getElementById('unitSearch');
+    const units = [...document.querySelectorAll('.unit')];
+    const emptyState = document.getElementById('emptyState');
+
+    search.addEventListener('input', () => {
+      const query = search.value.trim().toLowerCase();
+      let visible = 0;
+      units.forEach((unit) => {
+        const matches = !query || unit.dataset.search.includes(query);
+        unit.hidden = !matches;
+        if (matches) visible += 1;
+      });
+      emptyState.style.display = visible ? 'none' : 'block';
+    });
+
+    document.querySelectorAll('.notes-frame').forEach((frame) => {
+      frame.addEventListener('load', () => {
+        try {
+          const documentBody = frame.contentDocument.body;
+          if (frame.src.endsWith('.txt')) {
+            documentBody.style.margin = '0';
+            documentBody.style.padding = '28px clamp(18px, 4vw, 42px)';
+            documentBody.style.background = '#fff';
+            documentBody.style.color = '#17202a';
+            documentBody.style.font = '1rem/1.7 Georgia, "Times New Roman", serif';
+            documentBody.style.whiteSpace = 'pre-wrap';
+            documentBody.style.overflowWrap = 'anywhere';
+          }
+          const height = Math.max(documentBody.scrollHeight, documentBody.offsetHeight);
+          frame.style.height = `${height + 24}px`;
+        } catch (error) {
+          // The fixed minimum height remains useful if the browser blocks frame sizing.
+        }
+      });
+    });
+  </script>
+</body>
+</html>
