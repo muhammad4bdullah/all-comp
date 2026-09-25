@@ -1,0 +1,175 @@
+30 min
+📘 Computer Science — Unit 2 Notes
+1. Computer
+
+A computer is a machine used to solve problems by accepting inputs, performing operations, and producing outputs. It performs operations according to algorithms/programs written by humans.
+
+2. Problem
+
+A problem is a challenge or situation that needs to be overcome using appropriate actions.
+
+3. Computing Problem
+
+A computing problem is a problem that can be solved step-by-step using computation, involving arithmetic and/or logical operations.
+
+A computing problem has:
+
+Well-defined input
+A desired output satisfying specific requirements
+4. Types of Computing Problems
+Decision Problem
+
+A problem whose answer is a binary response, such as:
+
+Yes / No
+True / False
+1 / 0
+
+Example: Is 97 an even number? → No.
+
+Search Problem
+
+A problem in which we find a particular item or solution that satisfies given conditions.
+
+Counting Problem
+
+A problem in which we determine the number of possible arrangements, combinations, or solutions.
+
+Example: 2 pants × 5 shirts = 10 possible outfits.
+
+5. Problem Solving
+Simple Problem
+Identify the core problem.
+Design a plan.
+Implement the plan.
+Evaluate the result.
+
+Remember: I → P → I → E
+
+Complex Problem
+Identify the core problem.
+Decompose it into smaller sub-problems.
+Identify potential plans for each sub-problem.
+Select and design the best plan.
+Implement the plan.
+Evaluate the result.
+
+Remember: I → D → P → S → I → E
+
+6. IPO Model
+
+IPO = Input → Processing → Output
+
+Input
+
+The requirements/data provided to the computer system.
+
+Processing
+
+The operations or computations performed on the input.
+
+Output
+
+The result presented after processing.
+
+IPO Chart
+
+An IPO chart is a tabular tool used to visually represent the Input, Processing, and Output of a problem.
+
+7. Computational Thinking
+
+Definition:
+Computational thinking is a way of thinking that enables us to use computation to solve problems.
+
+Importance
+
+It helps us develop repeatable solutions that can solve not just one problem instance but similar instances of the problem.
+
+Properties of Computational Thinking
+1. Decomposition
+
+Breaking a large problem into smaller, manageable sub-problems.
+
+2. Abstraction
+
+Removing unnecessary details and focusing on the essential information needed to solve the problem.
+
+3. Pattern Recognition
+
+Examining a problem to identify patterns or similarities with previously solved problems.
+
+4. Algorithmic Thinking
+
+Designing a step-by-step solution to a problem.
+
+8. Logical Thinking
+
+Logical thinking means analyzing a situation using reasoning and relevant facts and making sensible decisions accordingly.
+
+📌 Important: Logical thinking is a part of computational thinking.
+
+Computers can apply logic according to their programming, but they don't independently reason like humans.
+
+9. Algorithmic Thinking
+
+Algorithmic thinking is a problem-solving approach for developing a step-by-step solution.
+
+Algorithms can be represented using:
+
+Flowchart
+
+A diagrammatic representation of an algorithm showing the sequence of operations required to solve a problem.
+
+Importance of Flowcharts
+Show the sequence of operations.
+Make the solution easier to understand.
+Help analyze problems.
+Help programmers plan before writing code.
+🔥 Flowchart Symbols
+Shape	Meaning
+Oval	Start / Stop
+Parallelogram	Input / Output
+Rectangle	Process
+Diamond	Decision
+
+OVAL → START/STOP
+PARALLELOGRAM → INPUT/OUTPUT
+RECTANGLE → PROCESS
+DIAMOND → DECISION
+
+10. Concept Map
+
+A concept map is a graphical tool that represents concepts and the relationships between them.
+
+Concepts → boxes/circles
+Relationships → lines/arrows
+Connections → linking words/phrases
+🧠 ULTRA-QUICK REVISION
+
+Computing problem: Step-by-step computation.
+
+3 problem types:
+➡️ Decision = Yes/No
+➡️ Search = Find
+➡️ Counting = How many?
+
+Simple problem:
+➡️ Identify → Plan → Implement → Evaluate
+
+Complex problem:
+➡️ Identify → Decompose → Plans → Select → Implement → Evaluate
+
+IPO:
+➡️ Input → Processing → Output
+
+Computational thinking:
+➡️ Decomposition → Abstraction → Pattern Recognition → Algorithm Design
+
+Flowchart:
+➡️ Oval = Start/Stop
+➡️ Parallelogram = I/O
+➡️ Rectangle = Process
+➡️ Diamond = Decision
+
+Concept map:
+➡️ Concepts + relationships

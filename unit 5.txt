@@ -1,0 +1,513 @@
+# Chapter 5 — Applications of Computer Science
+
+## 1. Artificial Intelligence (AI)
+
+Artificial Intelligence is a field of Computer Science concerned with creating computer-controlled machines and software that can perform tasks requiring human-like intelligence.
+
+### Uses of AI
+
+* Solving problems
+* Performing tasks
+* Making decisions
+* Handling complex problems
+* Assisting humans efficiently
+
+---
+
+## 2. Machine Learning (ML)
+
+Machine Learning is a subfield of AI that enables computers to learn from data and improve their performance without being explicitly programmed for every task.
+
+### Applications
+
+* Image recognition
+* Speech/voice recognition
+* Spam detection
+* Phishing detection
+* Fraud detection
+
+### Supervised Learning
+
+A type of ML in which the training data is **labelled**, meaning the correct input-output examples are provided.
+
+**Process:**
+Input + Correct Output → Learning → Model → Prediction on new data
+
+### Unsupervised Learning
+
+A type of ML in which training data is **unlabelled**. The system identifies patterns, relationships, or groups by itself.
+
+**Clustering:** Grouping similar data based on common characteristics.
+
+**Memory:**
+Supervised = **Labelled**
+Unsupervised = **Unlabelled**
+
+---
+
+## 3. AI Decision Transparency
+
+Some AI systems are difficult to understand because their decision-making process is not transparent.
+
+**Exam wording:**
+Lack of transparency in some AI algorithms makes it difficult to understand how decisions are made and why errors occur.
+
+---
+
+## 4. Harms / Risks of AI
+
+* **Errors:** Incorrect decisions can have serious consequences, especially in areas such as healthcare.
+* **Bias:** AI can produce biased or discriminatory results if trained on biased data.
+* **Accidents:** Errors in autonomous systems can cause accidents.
+* **Unemployment:** Automation can replace some human jobs.
+* **Loss of creativity:** Excessive dependence on AI may reduce human creativity.
+* **Cybersecurity threats:** AI can be misused to make cyberattacks more sophisticated.
+
+---
+
+## 5. AI Tools
+
+An AI tool is an intelligent software application that uses data and algorithms to perform tasks, make predictions, or solve problems.
+
+### ChatGPT
+
+ChatGPT stands for **Chat Generative Pre-trained Transformer**.
+
+It is an AI tool developed by **OpenAI** that provides text-based responses to user queries.
+
+### Ethical issues
+
+* Cheating
+* Plagiarism
+* Bias
+* Misinformation
+* Privacy and data security
+* Possible negative effects on learning and assessment
+
+### Grammarly
+
+An AI-based writing tool that helps identify and correct:
+
+* Grammar mistakes
+* Spelling mistakes
+* Writing issues
+
+It can assist with proofreading but should not completely replace human review.
+
+### Lovo AI
+
+An AI-based text-to-speech tool that can generate realistic speech using different voices.
+
+Ethical concerns include:
+
+* Data privacy
+* Bias in training data
+* Transparency
+* Copyright concerns
+* Potential misuse of generated content
+
+---
+
+# 6. Virtual Assistants
+
+A virtual assistant is an interactive AI-based application that understands natural language and responds to users.
+
+### Examples
+
+* Siri
+* Alexa
+* Google Assistant
+* ChatGPT
+* Cortana
+
+### Tasks
+
+* Send messages
+* Make phone calls
+* Search the Internet
+* Play videos
+* Compose emails
+* Answer questions
+* Make purchases
+
+### Ethical concerns
+
+Virtual assistants may store user information, creating privacy and security concerns.
+
+---
+
+# 7. Applications / Areas of AI
+
+AI is used in:
+
+* Healthcare
+* Education
+* Transportation
+* Research and development
+* Customer support
+* Biometrics
+* Identity verification
+* Advertising
+
+---
+
+# 8. Speech Recognition
+
+Speech recognition is technology that allows computers to understand spoken words and convert them into usable input or text.
+
+### Advantages
+
+* Allows users to dictate text without typing.
+* Saves time.
+* Helps people who have difficulty typing.
+
+### Disadvantages
+
+* Accents and pronunciation can cause errors.
+* Words may be misunderstood.
+* Users may hesitate to use it if accuracy is poor.
+
+---
+
+# 9. Computer Vision
+
+Computer Vision is a field of AI that enables computers to obtain meaningful information from images and videos.
+
+It uses:
+
+* Cameras
+* Sensors
+* Data
+* Algorithms
+
+### How Computer Vision Works
+
+1. Large amounts of image/video data are provided.
+2. The computer analyzes the data.
+3. It learns to recognize and distinguish objects/images.
+4. It can then perform automated actions.
+
+**Key idea:**
+AI gives computers the ability to **think**, while Computer Vision gives computers the ability to **see**.
+
+### Applications
+
+* Traffic cameras
+* Speed detection cameras
+* Self-driving cars
+* Facial recognition
+* Surveillance
+* Parking occupation detection
+* Traffic-flow analysis
+
+---
+
+# 10. Natural Language Processing (NLP)
+
+Natural Language Processing is an AI-based technology that enables computers to understand, analyze, interpret, and process human natural language.
+
+It allows humans to communicate with computers using languages such as English instead of programming languages.
+
+NLP can process both **spoken and written language**.
+
+### Applications
+
+* Language translation
+* Voice-to-text
+* Text-to-speech
+* Search engines
+* Chatbots
+* Language/text analysis
+
+**Memory:**
+NLP = **Computer understands human language**
+
+---
+
+# 11. Expert Systems
+
+An Expert System is an interactive AI system designed to solve complex problems like a human expert by using stored knowledge and reasoning.
+
+### Main components/process
+
+1. Knowledge is collected and stored in a knowledge base/database.
+2. The user provides information by answering questions.
+3. The system applies rules and stored knowledge.
+4. It reasons about the information.
+5. It provides a suitable solution to the user.
+
+### Applications
+
+* Medical diagnosis
+* Cybersecurity
+* Product design and searching
+* Automobile-related systems
+
+**Memory:**
+Knowledge → User Information → Rules/Reasoning → Solution
+
+---
+
+# 12. Cloud Computing
+
+Cloud computing is the **delivery of computing services over the Internet**.
+
+Users can access cloud services from different locations using Internet-connected devices.
+
+### Cloud services include
+
+* Servers
+* Storage
+* Databases
+* Networking
+* Software
+
+## Types of Cloud Computing
+
+### Public Cloud
+
+A cloud model in which resources are owned, maintained, and managed by a **cloud service provider** and made available to users/organizations.
+
+### Private Cloud
+
+A cloud model in which the infrastructure is **dedicated to a single organization**.
+
+It provides greater control over servers and computer networks.
+
+### Hybrid Cloud
+
+A combination of **public and private clouds**.
+
+It allows data and applications to be shared between the two environments.
+
+**Memory:**
+Public = Provider
+Private = One organization
+Hybrid = Both
+
+---
+
+# 13. Robotics
+
+Robotics is concerned with computer-controlled machines that can perform specific tasks with little or no human intervention.
+
+### Components of a Robot
+
+A robot may contain:
+
+* Sensors
+* Cameras
+* Microphones
+* Control systems
+
+### Fields required to develop robots
+
+* Mechanical engineering
+* Electrical engineering
+* Structural engineering
+* Mathematics
+* Physics
+
+### Applications
+
+* Manufacturing
+* Transporting goods in warehouses
+* Packaging medicines
+* Working in extreme temperatures
+* Handling hazardous materials
+
+---
+
+# 14. AI in Healthcare
+
+AI-based software and machines can assist healthcare professionals in:
+
+* Diagnosing diseases such as cancer
+* Analyzing blood samples
+* Detecting harmful substances or bacteria
+* Monitoring patients in intensive care units
+* Measuring heartbeat and blood pressure in real time
+
+---
+
+# 15. AI in Education
+
+AI can benefit three major areas:
+
+### Students
+
+* Individualized learning
+* Homework assistance
+* Assessment preparation
+
+### Teachers
+
+* Grading
+* Assistance with assignments and essays
+* Assessment-related tasks
+
+### Administration
+
+* Course scheduling
+* Timetable creation
+* Managing student data
+* Enrollment management
+* Supporting decision-making
+
+---
+
+# 16. AI in Gaming
+
+AI improves gaming experiences by controlling:
+
+* Enemies
+* Obstacles
+* Non-player characters (NPCs)
+* Game environments
+
+It is commonly used in games such as:
+
+* 3D shooting games
+* 3D racing/car games
+
+---
+
+# 17. AI in Agriculture
+
+AI in agriculture uses modern AI-based techniques to help farmers produce higher-quality crops and increase production while using land efficiently.
+
+### Applications
+
+* Detecting crop diseases
+* Monitoring plants
+* Monitoring livestock health
+* Preventing the spread of disease
+* Efficient pesticide spraying
+* Smart fertilization
+* Drones
+* Driverless tractors
+* Computer vision
+* Crop surveillance and security
+
+AI can help increase production from existing farmland and support solutions to food shortages.
+
+---
+
+# 18. AI in Daily Life
+
+AI is commonly used in:
+
+### Self-driving cars
+
+AI analyzes information from sensors and cameras to make real-time driving decisions.
+
+### Email filtering
+
+AI identifies and filters spam emails.
+
+### Online shopping
+
+AI provides personalized product recommendations.
+
+### Virtual assistants
+
+AI-powered assistants help users perform tasks using natural language or voice commands.
+
+### Personalized advertising
+
+AI analyzes user behavior and preferences to provide targeted advertisements.
+
+### Banking
+
+AI can detect suspicious transactions and help prevent fraud.
+
+---
+
+# 19. Self-Driving Cars
+
+Self-driving cars use AI software connected to technologies such as:
+
+* Sensors
+* Cameras
+* Radar
+
+They use **Computer Vision and AI** to understand their surroundings and make real-time decisions.
+
+Companies developing autonomous-driving technologies include:
+
+* Audi
+* BMW
+* Volkswagen
+* Tesla
+* General Motors (GM)
+* Volvo
+
+---
+
+# 20. AI in Business
+
+AI is used in:
+
+* E-commerce
+* Marketing
+* Business management
+* Cybersecurity
+* Smart pricing
+* Automated business activities
+
+### Benefits
+
+* Improves efficiency
+* Increases productivity
+* Improves accuracy
+* Enhances security
+* Supports business growth
+* Can increase revenue
+
+---
+
+# 21. AI in Defense
+
+AI can be used for:
+
+* Surveillance
+* Detecting suspicious activity
+* Detecting unauthorized access
+* Improving security
+* Training through simulated environments
+
+---
+
+# 22. Chatbots
+
+A chatbot is a computer program that combines **AI and natural language processing** to provide automated responses to users through text or voice interaction.
+
+It can mimic human-like conversation and act as a virtual assistant.
+
+### Advantages
+
+* Available 24/7
+* Provides instant responses
+* Useful for websites and businesses
+* Reduces routine workload
+* Can cost less than maintaining equivalent human support for repetitive queries
+
+---
+
+# ⭐ Most Important One-Line Definitions
+
+**AI:** Field of Computer Science that enables machines to perform tasks requiring human-like intelligence.
+
+**ML:** AI technique that allows computers to learn from data and improve without explicit programming for every task.
+
+**Computer Vision:** AI field that enables computers to obtain meaningful information from images and videos.
+
+**NLP:** AI technology that enables computers to understand and process human language.
+
+**Expert System:** AI system that uses stored knowledge and reasoning to solve problems like a human expert.
+
+**Cloud Computing:** Delivery of computing services over the Internet.
+
+**Robotics:** Technology concerned with computer-controlled machines that perform tasks with little or no human intervention.
+
+**Chatbot:** Computer program that uses AI and natural language to provide automated responses to users.

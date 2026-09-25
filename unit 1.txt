@@ -1,0 +1,1181 @@
+📘 CHAPTER 1 — COMPUTER SYSTEMS & DATA COMMUNICATION
+Final Exam Notes
+1. Computer
+
+A computer is a programmable electronic device that performs arithmetic and logical operations automatically according to instructions provided by the user.
+
+2. History / Early Computing Devices
+Abacus
+
+One of the earliest calculating devices, using beads for counting and basic arithmetic.
+
+Napier's Bones
+
+Invented by John Napier. Numbered rods used mainly for multiplication and division.
+
+Pascaline
+
+Invented by Blaise Pascal in 1642. A mechanical calculator using gears for automatic calculations.
+
+Step Reckoner / Leibniz Wheel
+
+Developed by Gottfried Wilhelm Leibniz in 1673. Improved upon the Pascaline using wheels and gears.
+
+Difference Engine
+
+Designed by Charles Babbage for performing mathematical calculations.
+
+Analytical Engine
+
+Also designed by Charles Babbage. Included concepts similar to modern computers such as:
+
+Input using punched cards
+Memory
+Processing
+Output
+
+Charles Babbage = Father of Computer
+
+Hollerith Tabulating Machine
+
+Developed by Herman Hollerith. Used punched cards to process statistical data.
+
+Differential Analyzer
+
+Developed by Vannevar Bush for solving mathematical problems.
+
+Harvard Mark I
+
+Developed by Howard Aiken in 1944. A large electromechanical computer using switches, punched cards, and an electric typewriter for output.
+
+3. Generations of Computers
+Generation	Period	Main Technology
+1st	1942–1956	Vacuum tubes
+2nd	1956–1963	Transistors
+3rd	1963–1971	Integrated Circuits
+4th	1971–Present	Microprocessors
+5th	Late 20th century–Present	Artificial Intelligence
+1st Generation
+Vacuum tubes
+Very large and expensive
+Produced much heat
+Consumed high electricity
+Unreliable
+Machine language
+Punch cards
+
+Memory: Huge + Hot + Expensive + Unreliable
+
+2nd Generation
+Transistors replaced vacuum tubes
+Smaller and faster
+More reliable
+Less expensive
+Less power consumption
+Assembly language and high-level languages
+3rd Generation
+Used Integrated Circuits (ICs)
+Smaller and faster
+More reliable
+Lower cost
+Less power consumption
+Keyboard and monitor became common
+4th Generation
+Uses microprocessors
+Very small and fast
+Reliable and cost-effective
+Still widely used
+5th Generation
+Based heavily on Artificial Intelligence
+Natural language processing
+Voice recognition
+Robotics
+Expert systems
+Goal of performing human-like tasks
+
+Memory:
+4th = Microprocessor
+5th = AI
+
+4. Computer System
+
+A system is a collection of interconnected components working together to achieve a specific purpose.
+
+Natural System
+
+A system that exists naturally.
+
+Examples: Ecosystem, solar system, biological system.
+
+Artificial System
+
+A system created by humans to achieve a specific purpose.
+
+Examples: Transportation system, communication system, computer system.
+
+Main Components of a Computer System
+Input devices
+System unit
+Output devices
+5. Input Devices
+
+Input device: Hardware used to enter data and instructions into a computer.
+
+Keyboard
+
+Used to enter text, numbers, symbols, and commands.
+
+Types of keys:
+
+Alphabetic
+Numeric
+Function
+Control
+Navigation
+Mouse
+
+Used to select, open, and interact with objects on screen.
+
+Left button → select/open
+Right button → options/context menu
+Wheel → scrolling
+Microphone
+
+Converts sound into electrical signals and then digital data for processing.
+
+Scanner
+
+Captures images/documents and converts them into digital form.
+
+Barcode Reader
+
+Reads information stored in barcodes.
+
+Digital Camera
+
+Captures and stores images in digital form.
+
+Touch Screen
+
+Pressure-sensitive display that allows users to interact directly by touching the screen.
+
+6. System Unit & Motherboard
+System Unit
+
+Main part of a computer containing the motherboard, power supply, storage devices, and other electronic components.
+
+Motherboard
+
+The main circuit board connecting major components of a computer.
+
+It contains:
+
+CPU
+Main memory
+Expansion slots
+ICs
+Connectors
+Buses
+Bus
+
+An electronic pathway used to transfer information between computer components.
+
+7. CPU
+
+CPU (Central Processing Unit) is the main processing unit responsible for executing program instructions.
+
+It consists mainly of:
+
+Control Unit (CU)
+
+Controls and coordinates the activities of the computer.
+
+Arithmetic Logic Unit (ALU)
+
+Performs:
+
+Arithmetic operations
+Logical operations
+Registers
+
+Small, high-speed storage locations inside the CPU.
+
+8. CPU Registers
+MAR — Memory Address Register
+
+Stores the address of the memory location being accessed.
+
+MDR — Memory Data Register
+
+Stores data/instructions being transferred to or from memory.
+
+AC — Accumulator
+
+Stores intermediate arithmetic and logical results.
+
+PC — Program Counter
+
+Stores the address of the next instruction to be executed.
+
+CIR — Current Instruction Register
+
+Stores the current instruction being processed.
+
+9. Von Neumann Architecture
+
+Developed by John von Neumann in 1945.
+
+Its important feature is the stored-program concept, where instructions and data are stored in the same memory.
+
+Main components:
+
+Control Unit
+ALU
+Memory
+Registers
+Input/Output
+10. Storage Devices
+
+Storage devices store programs and data.
+
+Hard Disk Drive (HDD)
+
+Magnetic storage device with large storage capacity.
+
+CD
+
+Optical storage medium using a laser.
+
+Diameter: 120 mm
+Capacity: approximately 700 MB
+DVD
+
+Optical storage medium with greater capacity than a CD.
+
+DVD = Digital Versatile Disc
+
+Memory Card
+
+Small portable storage device.
+
+USB Flash Drive
+
+Portable storage device connected through a USB port.
+
+11. Output Devices
+
+Output devices present processed information to the user.
+
+Hard Copy
+
+Physical/printed form of information.
+
+Soft Copy
+
+Electronic form displayed on a screen.
+
+Monitor
+
+Displays soft-copy output.
+
+CRT
+Bulky and heavy
+High power consumption
+Produces more heat
+Mostly obsolete
+LED
+Thin and lightweight
+Less power consumption
+Less heat
+Better display quality
+Printer
+Impact Printer
+
+Physically strikes the paper.
+
+Example: Dot matrix printer.
+
+Non-Impact Printer
+
+Does not physically strike the paper.
+
+Examples: Laser printer, Inkjet printer.
+
+Plotter
+
+Used to produce large, precise drawings such as:
+
+Blueprints
+Engineering diagrams
+Building designs
+Speaker
+
+Converts electrical signals into sound.
+
+12. Ports, Expansion Slots & Cards
+Port
+
+Interface used to connect external devices to a computer.
+
+Expansion Slot
+
+Socket on the motherboard used to install additional cards.
+
+Expansion Card
+
+Circuit board that adds extra functionality to a computer.
+
+13. Memory
+
+Computer memory consists of physical devices used to store programs and data temporarily or permanently.
+
+Primary/Main Memory
+
+Includes:
+
+RAM
+ROM
+Cache
+Registers
+Secondary Memory
+
+Used for long-term storage.
+
+Examples:
+
+HDD
+SSD
+USB drive
+14. Memory Terminology
+Bit
+
+Smallest unit of data; either 0 or 1.
+
+Byte
+
+8 bits.
+
+Memory Word
+
+Amount of data processed by a computer as a single unit.
+
+Word Size
+
+Number of bits in a computer word, such as 16, 32, or 64 bits.
+
+Memory Units
+
+KB → MB → GB → TB → PB → EB → ZB → YB
+
+15. Types of Memory by Technology
+Chip Memory
+
+Uses semiconductor integrated circuits.
+
+Examples: RAM, ROM, cache, registers, flash memory.
+
+Magnetic Memory
+
+Stores data using magnetized areas.
+
+Examples: HDD, magnetic tape.
+
+Optical Memory
+
+Uses laser/light to read or write data.
+
+Examples: CD, DVD, Blu-ray.
+
+Memory:
+Chip = Electronics
+Magnetic = Magnetism
+Optical = Laser
+
+16. RAM, ROM & Cache
+RAM
+
+Random Access Memory
+
+Read/write
+High-speed
+Temporary working memory
+Volatile
+ROM
+
+Read Only Memory
+
+Non-volatile
+Retains information without power
+Stores firmware/boot-related instructions
+
+Types:
+
+PROM
+EPROM
+EEPROM
+Cache
+
+Small, extremely fast memory associated with the CPU.
+
+Stores frequently/recently used data and instructions to improve performance.
+
+Levels:
+
+L1
+L2
+L3
+Volatile Memory
+
+Loses data when power is turned off.
+
+Example: RAM
+
+Non-Volatile Memory
+
+Retains data without power.
+
+Examples: ROM, HDD, SSD
+
+17. Instruction Cycle
+
+The CPU follows three basic stages:
+
+Fetch → Decode → Execute
+
+Fetch: Retrieve instruction from memory.
+Decode: Determine what the instruction means.
+Execute: Perform the required operation.
+18. Pipelining
+
+Pipelining allows multiple instructions to be processed at different stages simultaneously, improving CPU efficiency.
+
+Interrupt
+
+A signal that temporarily causes the CPU to stop its current activity and handle an important event/request.
+
+Parallelism
+
+Processing multiple tasks or parts of tasks simultaneously.
+
+19. Buses
+Address Bus
+
+Carries memory addresses.
+
+Data Bus
+
+Carries data.
+
+Control Bus
+
+Carries control signals.
+
+Memory:
+
+Address = WHERE
+Data = WHAT
+Control = HOW
+
+20. I/O Controller & Bus Architecture
+I/O Controller
+
+Controls communication and data flow between the CPU and input/output devices.
+
+Bus Architecture
+
+The communication pathways used to transfer data between CPU, memory, storage, and other components.
+
+21. Software
+
+Software is a collection of programs, data, and instructions that tells a computer how to perform specific tasks.
+
+Two major types:
+
+System Software
+Application Software
+22. System Software
+
+System software manages hardware and provides a platform for other programs.
+
+Operating System
+
+Manages hardware resources and provides services to programs.
+
+Examples: Windows, macOS, Linux, Android.
+
+OS Functions
+User interface
+Process scheduling
+Memory management
+File management
+I/O management
+Device management
+Security and authentication
+23. Device Drivers
+
+Software that allows the operating system to communicate with and control hardware.
+
+Examples: Printer driver, graphics driver, DVD drive driver.
+
+24. System Utilities
+
+Tools used to maintain and manage a computer.
+
+Examples:
+
+Disk cleanup
+Backup
+Antivirus
+Disk defragmentation
+System monitoring
+25. Compiler, Assembler, Linker & Loader
+Compiler
+
+Translates high-level source code into machine/executable code.
+
+Assembler
+
+Translates assembly language into machine code.
+
+Linker
+
+Combines object files and libraries into a complete executable program.
+
+Loader
+
+Loads the executable program into RAM for execution.
+
+Flow:
+
+Source Code → Compiler/Assembler → Object Code → Linker → Executable → Loader → RAM
+
+26. Firmware
+
+Software stored in or closely associated with hardware that provides low-level control of the device.
+
+Examples: BIOS/UEFI firmware, washing-machine firmware.
+
+27. Application Software
+
+Software designed to perform specific tasks for users.
+
+Productivity Software
+
+Used to create and organize information.
+
+Examples: Microsoft Office, Google Workspace, LibreOffice.
+
+Business Software
+
+Designed for business operations and management.
+
+Examples: QuickBooks, Salesforce, Trello.
+
+Entertainment Software
+
+Used for leisure and enjoyment.
+
+Examples: Minecraft, Spotify, Netflix, YouTube.
+
+Educational Software
+
+Supports learning and skill development.
+
+Examples: Duolingo, Kahoot, LMS.
+
+28. Programming Languages
+
+A programming language is a structured method of communicating instructions to a computer using predefined commands, syntax, and rules.
+
+Two categories:
+
+Low-level languages
+High-level languages
+29. Low-Level Languages
+
+Machine-oriented languages closely related to computer hardware.
+
+Machine Language
+Directly understood by computer
+Written in binary
+Difficult for humans to read/write
+Assembly Language
+Uses symbolic codes called mnemonics
+Easier than machine language
+Must be converted into machine code using an assembler
+Allows hardware-specific programming
+
+Assembly → Assembler → Machine Code
+
+30. High-Level Languages
+
+Designed to be easier for humans to read and write.
+
+Examples: C, Java, Pascal, Visual Basic.
+
+Procedural / Structured Programming
+
+Programs are divided into smaller modules, each performing a specific task.
+
+Three basic structures:
+
+Sequence → instructions execute in order
+Selection → choose based on a condition (if, else, switch)
+Repetition → repeat instructions using loops
+
+Object-Oriented Programming
+
+Programming approach based on objects containing data and related behavior.
+
+Examples: Student, Car, BankAccount.
+
+31. Data Communication
+
+Data communication is the exchange of data between two or more devices through a wired or wireless medium.
+
+Components
+Sender — sends the message.
+Message — data being transmitted.
+Medium — pathway used for transmission.
+Receiver — receives the message.
+Protocol — rules governing communication.
+32. Communication Modes
+Simplex
+
+One-way communication.
+
+Example: Server → Client
+
+Half-Duplex
+
+Two-way communication, but not simultaneously.
+
+Example: Walkie-talkie
+
+Full-Duplex
+
+Two-way communication simultaneously.
+
+Example: Telephone call
+
+33. Asynchronous & Synchronous Transmission
+Asynchronous
+Data transmitted one character/byte at a time.
+Uses start and stop bits.
+Generally slower due to additional control bits.
+Synchronous
+Data transmitted in synchronized blocks/streams.
+Does not require start/stop bits for every character.
+Generally faster.
+Requires synchronization between sender and receiver.
+34. Communication Devices
+Hub
+
+Connects devices in a LAN and sends incoming data to all connected devices/ports.
+
+Hub = Everyone
+
+Switch
+
+Connects devices in a LAN and forwards data to the intended device/port.
+
+Switch = Specific device
+
+Data Packet
+
+A small unit of data transmitted across a network. Data can be divided into packets and reassembled at the destination.
+
+Router
+
+Connects different networks and selects an appropriate path for forwarding data packets.
+
+Router = Connects networks + chooses path
+
+Gateway
+
+Connects networks using different communication protocols.
+
+Gateway = Different protocols
+
+35. Network Architecture
+Server
+
+Computer that provides/shares resources and services.
+
+Client
+
+Computer that accesses/uses resources from a server.
+
+Client-Server Network
+
+One or more dedicated servers provide services to client computers.
+
+Advantages:
+
+Centralized control
+Centralized security
+Easier administration
+Peer-to-Peer Network
+
+Each computer can act as a client and server.
+
+Each computer is a peer.
+Suitable for small networks.
+Large P2P networks are difficult to manage.
+36. Types of Networks
+LAN — Local Area Network
+
+A network covering a small geographical area, such as a building or group of nearby buildings.
+
+Characteristics:
+
+Small physical area
+High-speed communication
+Wired or wireless
+Usually fewer computers
+Commonly used for sharing printers, files, applications, etc.
+
+Memory: LAN = Small Area
+
+WAN — Wide Area Network
+
+A network covering a large geographical area, such as cities, countries, or continents.
+
+Characteristics:
+
+Large physical area
+Can connect multiple LANs
+May use leased lines, satellites, or public networks
+Generally slower than LAN
+More complex, so communication errors can occur
+
+Memory: WAN = Wide Area
+
+MAN — Metropolitan Area Network
+
+A network larger than a LAN but smaller than a WAN.
+
+Can cover a large campus or city.
+Connects multiple LANs.
+Usually provides high-speed communication.
+Often uses fiber-optic connections.
+Typically covers several to tens of kilometers.
+
+Memory: MAN = City-sized
+
+VPN — Virtual Private Network
+
+A network that provides secure remote access to an organization's network using public infrastructure such as the Internet.
+
+Characteristics:
+
+Uses public networks
+Secure remote access
+Allows access to organizational resources
+Can support file sharing/video conferencing
+Cheaper than dedicated leased lines for remote access
+
+Memory: VPN = Private connection over public Internet
+
+37. Wireless Networks
+
+Wireless networks transmit data without physical wired connections.
+
+Wi-Fi
+
+Wireless networking technology used to connect devices to LANs and the Internet.
+
+Common in:
+
+Homes
+Offices
+Airports
+Public places
+Bluetooth
+
+Short-range wireless technology used between nearby devices.
+
+Uses:
+
+Audio streaming
+File sharing
+Connecting peripherals
+Cellular Network
+
+Provides wireless communication over large areas divided into cells, each served by a cell tower/base station.
+
+Used for:
+
+Calls
+Messaging
+Mobile Internet
+Satellite Communication
+
+Uses satellites orbiting Earth to provide communication over very large areas.
+
+Uses:
+
+Satellite Internet
+Satellite radio
+GPS/navigation
+38. Advantages & Disadvantages of Wireless Networks
+Advantages
+Easy installation
+Cost-effective
+Easy expansion
+No expensive cabling
+Remote access within coverage area
+Disadvantages
+Interference from other devices/networks
+Security risks
+Limited range
+May require signal boosters
+Can be slower in crowded areas
+Wireless devices consume battery power
+39. Network Topology ⭐
+
+Network topology is the arrangement of network nodes/devices and the connections between them.
+
+1. Bus Topology
+
+All devices are connected to a single main cable (backbone).
+
+Advantages:
+
+Simple
+Requires less cable
+Relatively inexpensive
+
+Disadvantages:
+
+Failure of main cable can affect the whole network
+Performance decreases as devices increase
+Troubleshooting can be difficult
+
+Memory: 🚌 One main road.
+
+2. Star Topology
+
+All devices connect to a central device, usually a switch or hub.
+
+Advantages:
+
+Easy to install/manage
+Failure of one device usually doesn't affect others
+Easy to identify problems
+
+Disadvantage:
+
+Failure of central device can affect the whole network
+Requires more cable
+
+Memory: ⭐ Everything connects to the center.
+
+3. Ring Topology
+
+Each device connects to two neighboring devices, forming a ring.
+
+Advantages:
+
+Data travels in an organized manner
+Equal access for devices
+
+Disadvantages:
+
+Failure of one connection/device can disrupt the network
+Adding/removing devices can be difficult
+
+Memory: 💍 Circle.
+
+4. Mesh Topology
+
+Devices are connected to multiple or all other devices.
+
+Advantages:
+
+Highly reliable
+Multiple paths for data
+Failure of one connection does not necessarily stop communication
+
+Disadvantages:
+
+Expensive
+Requires lots of cables/connections
+Complex to install
+
+Memory: 🕸️ Web.
+
+5. Tree Topology
+
+Devices are arranged in a hierarchical structure, combining characteristics of star and bus topologies.
+
+Advantages:
+
+Easy to expand
+Suitable for large networks
+Easier management of groups
+
+Disadvantages:
+
+More complex
+Failure of higher-level connections can affect sections of the network
+
+Memory: 🌳 Branches.
+
+6. Hybrid Topology
+
+A combination of two or more different topologies.
+
+Example: Star + Bus.
+
+Advantage: Flexible and scalable.
+
+Disadvantage: More complex and expensive.
+
+40. Circuit Switching vs Packet Switching ⭐
+Circuit Switching
+
+A dedicated communication path is established between sender and receiver before communication begins.
+
+The path remains reserved for the duration of the communication.
+
+Example: Traditional telephone networks.
+
+Advantages
+Dedicated path
+Predictable connection
+Continuous transmission
+Disadvantages
+Wastes resources when no data is being transmitted
+Connection setup required
+Less efficient for bursty data
+
+Memory:
+Circuit = One dedicated road for the whole conversation.
+
+Packet Switching
+
+Data is divided into small packets before transmission.
+
+Each packet may travel through different routes and is reassembled at the destination.
+
+Example: Internet.
+
+Advantages
+Efficient use of network resources
+No dedicated path required
+Multiple users can share network links
+Suitable for Internet/data communication
+Disadvantages
+Packets may arrive at different times
+Packets may take different routes
+Network congestion can cause delays
+
+Memory:
+Packet = Data broken into pieces and sent through the network.
+
+Main Difference
+Circuit Switching	Packet Switching
+Dedicated path	No dedicated path
+Path reserved	Resources shared
+Continuous connection	Data divided into packets
+Traditional telephone networks	Internet
+Less efficient for bursty data	Efficient for data networks
+41. Data Communication Standards
+
+Data communication standards are rules/protocols that define how data is transmitted, received, and processed between computers and networks.
+
+The International Organization for Standardization (ISO) developed the OSI reference model.
+
+42. OSI Model ⭐⭐⭐
+
+OSI = Open Systems Interconnection
+
+It has 7 layers.
+
+From top to bottom:
+
+Application → Presentation → Session → Transport → Network → Data Link → Physical
+
+1. Application Layer
+
+Provides network services directly to applications/users.
+
+Examples: Web, email, file-transfer services.
+
+2. Presentation Layer
+
+Handles the format and representation of data.
+
+Functions include:
+
+Translation
+Encryption/decryption
+Compression
+
+Memory: "How should the data look?"
+
+3. Session Layer
+
+Establishes, manages, and terminates communication sessions between devices.
+
+Memory: "Start/manage/end the conversation."
+
+4. Transport Layer
+
+Provides end-to-end data delivery.
+
+Functions include:
+
+Segmentation
+Flow control
+Error control
+Reliable delivery
+
+Memory: "Make sure data gets there properly."
+
+5. Network Layer
+
+Determines paths and handles logical addressing/routing of packets.
+
+Memory: "Which route?"
+
+6. Data Link Layer
+
+Provides reliable transfer between directly connected devices and handles frames/MAC addressing.
+
+Memory: "Device-to-device."
+
+7. Physical Layer
+
+Transmits raw bits (0s and 1s) through the physical medium.
+
+Deals with:
+
+Cables
+Signals
+Connectors
+Physical transmission
+
+Memory: "Actual wires/signals."
+
+🧠 OSI Layer Memory Trick
+
+A P S T N D P
+
+All
+People
+Seem
+To
+Need
+Data
+Protection
+
+Top → Bottom:
+
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+
+43. Data Communication Protocols
+TCP/IP
+
+Transmission Control Protocol / Internet Protocol
+
+The fundamental protocol suite used for Internet communication.
+
+TCP provides reliable, connection-oriented delivery.
+IP handles addressing and routing.
+HTTP
+
+Hypertext Transfer Protocol
+
+Used for transferring web pages and related resources over the Web.
+
+FTP
+
+File Transfer Protocol
+
+Used for transferring files between computers over a network.
+
+SMTP
+
+Simple Mail Transfer Protocol
+
+Used for sending email messages.
+
+🧠 CHAPTER 1 — LAST-MINUTE MEMORY MAP
+
+If you're revising this the night before, remember the chapter like this:
+
+Computer
+→ History
+→ Generations
+→ System
+→ Input
+→ CPU/Motherboard
+→ Storage
+→ Output
+→ Architecture
+→ Memory
+→ Buses
+
+Software
+→ System Software
+→ OS
+→ Drivers
+→ Utilities
+→ Compiler/Assembler
+→ Linker/Loader
+→ Firmware
+→ Application Software
+
+Programming
+→ Low-level
+→ Machine
+→ Assembly
+→ High-level
+→ Procedural/Structured
+→ OOP
+
+Data Communication
+→ Components
+→ Simplex/Half/Full Duplex
+→ Synchronous/Asynchronous
+→ Hub/Switch/Router/Gateway
+→ Client-Server/P2P
+→ LAN/WAN/MAN/VPN
+→ Wireless
+→ Topologies
+→ Circuit/Packet Switching
+→ OSI
+→ Protocols
+
+🔥 THE ABSOLUTE MUST-KNOW LIST
+
+If you're short on revision time, these are the things I'd make sure you can explain without looking:
+
+Computer generations + technologies
+CPU, CU, ALU, registers
+MAR/MDR/AC/PC/CIR
+Von Neumann architecture
+RAM vs ROM vs Cache
+Primary vs secondary memory
+Volatile vs non-volatile
+System vs application software
+Compiler vs assembler vs linker vs loader
+Low-level vs high-level languages
+Data communication components
+Simplex vs half-duplex vs full-duplex
+Hub vs switch vs router vs gateway
+Client-server vs P2P
+LAN vs MAN vs WAN vs VPN
+Wireless networks
+Network topologies
+Circuit vs packet switching
+7 OSI layers
+TCP/IP, HTTP, FTP, SMTP

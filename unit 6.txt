@@ -1,0 +1,590 @@
+Chapter 6 — Safe and Responsible Use of Computer
+6.1 Safe and Responsible Use of Computer
+
+Safe and responsible computer use means protecting computer hardware, software, data, and users from damage, loss, unauthorized access, and security threats.
+
+1. Keep Systems Updated
+
+Keep the operating system, utilities, drivers, software, and firmware updated. Updates improve security and fix vulnerabilities.
+
+2. Strong and Unique Passwords
+
+Use passwords containing:
+
+Uppercase letters
+Lowercase letters
+Numbers
+Special characters
+
+Use different passwords for different accounts and enable two-factor authentication (2FA) where possible.
+
+3. Phishing
+
+Phishing is an attempt to trick users into revealing personal or sensitive information through suspicious emails, messages, links, or websites.
+
+4. Backup Data
+
+Keep copies of important data on another storage device, external drive, USB, or secure cloud backup service.
+
+5. Secure Wi-Fi
+
+Avoid entering sensitive information, such as banking details, when connected to untrusted public Wi-Fi networks.
+
+6. Careful Downloads
+
+Download software and files only from trusted and reliable sources to reduce the risk of malware.
+
+7. Privacy Settings
+
+Use privacy settings to control what personal information is shared publicly.
+
+8. Physical Security
+
+Protect computers from theft, physical damage, dust, and harmful environmental conditions.
+
+9. Safe Online Shopping and Banking
+
+Use trusted websites and check for HTTPS (Hypertext Transfer Protocol Secure) when entering sensitive information.
+
+6.2 Responsible Use of Hardware and Software
+
+Responsible use of technology involves efficiency, sustainability, security, ethics, and social responsibility.
+
+Responsible Hardware Use
+Extend Hardware Lifespan
+
+Proper use and maintenance can extend the life of hardware and reduce electronic waste.
+
+Maintain Hardware
+
+Keep devices clean and protect them from physical damage.
+
+Protect Data and Privacy
+
+Use strong passwords, 2FA, and updated software and firmware.
+
+Upgrade Responsibly
+
+Do not replace or upgrade hardware unnecessarily. Upgrade only when it is required or provides a useful benefit.
+
+Follow Manufacturer Guidelines
+
+Follow instructions provided by manufacturers to prevent damage and ensure safe operation.
+
+Responsible Software Use
+Follow Laws
+
+Respect copyright, intellectual property, and software licensing laws. Do not use pirated or cracked software.
+
+Ethical Use
+
+Do not use software for:
+
+Hacking
+Malware
+Cyberbullying
+Cyber harassment
+Other harmful or illegal activities
+Privacy and Data Protection
+
+Be careful about what personal information is shared, where it is shared, and how it is used. Respect the privacy of others.
+
+Intellectual Property
+
+Respect copyrights, patents, and trademarks and give appropriate credit to creators and open-source projects.
+
+Proper Licensing
+
+Understand the requirements of different software licenses, including open-source and commercial licenses.
+
+User Education
+
+Digital literacy and education help users understand ethical, secure, sustainable, and responsible technology use.
+
+6.3 Safe Use of Digital Platforms
+Safe Use of Search Engines
+Use trusted search engines such as Google and Bing.
+Government websites and academic databases are generally reliable sources.
+Avoid entering sensitive personal information into search queries.
+For sensitive information, use official and trusted websites.
+Safe Use of Social Networking
+Protect personal information.
+Use privacy settings.
+Share only information you are comfortable making public.
+Be careful about who you interact with.
+Avoid sharing sensitive information publicly.
+Think before posting or sharing content.
+6.4 Laws to Protect User Privacy and Intellectual Property
+
+Protecting user privacy and intellectual property (IP) is important because personal data is widely collected and processed, while creators need legal protection for their work and ideas.
+
+Protection of User Privacy
+
+Privacy laws give users greater control over:
+
+Their personal information
+How their data is collected and used
+Who can access or share their information
+Intellectual Property
+
+Intellectual property refers to creations of the mind, such as inventions, artistic works, designs, and original ideas.
+
+IP laws protect the rights of:
+
+Authors
+Artists
+Inventors
+Innovators
+
+They help ensure creators receive credit and legal protection for their work.
+
+Prevention of Unauthorized Use
+
+These laws help prevent unauthorized access, copying, distribution, or misuse of personal data and intellectual property.
+
+Important Computer-Related Laws
+
+CFAA — Computer Fraud and Abuse Act
+Prevents unauthorized access to computers and computer-related abuse.
+
+GDPR — General Data Protection Regulation
+Operates in the European Union and gives users greater control over their personal data and how it is used.
+
+DMCA — Digital Millennium Copyright Act
+Addresses copyright infringement involving digital content.
+
+ECPA — Electronic Communications Privacy Act
+Provides a legal framework concerning interception of electronic communications and access to stored electronic communications.
+
+Telecommunications (Interception and Access) Act
+Operates in Australia and regulates interception of telecommunications and access to communications.
+
+PIPEDA — Personal Information Protection and Electronic Documents Act
+Operates in Canada and regulates the collection, use, and disclosure of personal information by private-sector organizations.
+
+Computer Crimes Acts
+Various countries have laws addressing computer crimes such as unauthorized access, hacking, malware-related activities, and other computer-related crimes.
+
+COPPA — Children's Online Privacy Protection Act
+Operates in the United States and protects the online personal information of children under 13.
+
+Cybersecurity Law
+China has enacted a comprehensive cybersecurity law covering areas such as cyberspace activities, data protection, and critical information infrastructure.
+
+6.5 Computing Innovation
+Definition
+
+Computing innovation means creating or using new or improved computer technologies, processes, systems, and software that can change how people and society work.
+
+It includes innovations in hardware, software, networking, and applications of computing technology.
+
+Hardware Advancement
+
+Computing innovation involves developing:
+
+Faster and more energy-efficient processors
+High-capacity storage devices
+Advanced networking technologies
+New hardware components and systems
+
+These provide the foundation for further software and application development.
+
+Software Development
+
+Computing innovation involves creating new and improved software such as:
+
+Operating systems
+Productivity software
+Artificial intelligence
+Machine learning
+Data analytics
+Specialized applications
+Emerging Technologies
+
+Important emerging technologies include:
+
+Artificial Intelligence (AI)
+Blockchain
+Quantum Computing
+Virtual Reality (VR)
+Internet of Things (IoT)
+
+These technologies create opportunities for new applications and industries.
+
+Human-Computer Interaction (HCI)
+
+HCI focuses on improving how humans interact with computers and digital systems.
+
+Examples include:
+
+User interfaces
+Accessibility features
+Natural Language Processing (NLP)
+Gesture recognition
+Benefits of Computing Innovation
+1. Increased Productivity
+
+Computers and automation make work faster and more efficient.
+
+Examples: Robots can perform repetitive or dangerous tasks, while software can automate accounting and administrative work.
+
+2. Improved Communication
+
+The internet has transformed communication through:
+
+Email
+Social media
+Video calls
+Online platforms
+
+People can communicate quickly across the world.
+
+3. Easy Access to Information
+
+The internet provides access to large amounts of information, helping people learn, stay informed, and conduct research.
+
+4. Medical Advancement
+
+Computing has improved:
+
+Medical imaging
+Drug discovery
+Disease diagnosis
+Patient care
+Medical research
+
+Examples: AI can assist in developing medicines, while VR can be used for medical simulations and treating phobias.
+
+5. Transportation
+
+Computing innovations such as autonomous vehicles have the potential to make transportation safer and more efficient.
+
+6. Entertainment
+
+Computing has enabled:
+
+High-quality graphics
+Virtual Reality
+Augmented Reality
+Interactive storytelling
+Advanced gaming
+7. Education
+
+Computers and the internet have made education more accessible through:
+
+Online courses
+E-learning platforms
+Self-paced learning
+VR-based immersive learning
+Harmful Effects of Computing Innovation
+1. Privacy Concerns
+
+Modern computing collects and analyzes large amounts of personal data. This can cause concerns about:
+
+Loss of privacy
+Data breaches
+Misuse of personal information
+Collection of data without informed consent
+2. Social and Mental Well-being
+
+Constant connectivity and excessive dependence on technology can contribute to anxiety, social isolation, and other negative effects on well-being.
+
+3. Environmental Impact
+
+The production and use of computing devices can cause:
+
+Greenhouse gas emissions
+Electronic waste (e-waste)
+Consumption of natural resources
+4. Cybersecurity Risks
+
+Greater use of technology can increase risks such as:
+
+Cybercrime
+Data theft
+Security breaches
+
+Technology should therefore be used responsibly by protecting privacy, preventing cybercrime, and reducing unnecessary dependence on technology.
+
+6.6 Different Types of Malicious Software and Malware
+Malicious Software (Malware)
+
+Malicious software, or malware, is software intentionally designed to harm, exploit, damage, or gain unauthorized access to computer systems or data.
+
+1. Computer Virus
+
+A computer virus is a malicious program that can attach itself to files or programs and spread when the infected file is executed.
+
+2. Ransomware
+
+Ransomware is malware that prevents users from accessing their files or systems and demands a ransom/payment to restore access.
+
+3. Trojan Horse
+
+A Trojan horse is malicious software that disguises itself as legitimate or useful software to trick users into installing or running it.
+
+4. Phishing
+
+Phishing is an attempt to trick people into revealing sensitive information by pretending to be a trustworthy person or organization, often through fake emails, messages, or websites.
+
+5. Hacking
+
+Hacking refers to gaining unauthorized access to or manipulating computer systems, networks, or data.
+
+6. Spam
+
+Spam consists of unwanted, unsolicited, and often irrelevant messages, such as promotional emails or messages sent in large numbers.
+
+7. Spyware
+
+Spyware is software that secretly collects information about a user without their knowledge or consent.
+
+8. Pharming
+
+Pharming is redirecting users from a legitimate website to a fake or malicious website without their knowledge.
+
+9. Cookies
+
+Cookies are small text files stored on a user's device containing information about their interactions with a website.
+
+Example: Cookies can remember login information and website preferences.
+
+Cookies themselves are not malware; they are normally used for legitimate website functions.
+
+10. Scam
+
+A scam is a deceptive scheme designed to trick people into giving away money, personal information, or other valuable information.
+
+11. Software Piracy
+
+Software piracy is the unauthorized copying, distribution, or use of software without proper licensing or permission.
+
+Types of Software Based on Availability
+Freeware
+
+Freeware is software available to use without paying a fee.
+
+Freeware does not necessarily mean open-source because its source code may remain private.
+
+Shareware
+
+Shareware is software provided with a free trial or limited functionality. Users may need to purchase it to continue using it or access its full features.
+
+Open-Source Software
+
+Open-source software has source code that is publicly accessible and can generally be viewed, modified, and redistributed according to its license.
+
+6.7 Information Privacy, System Security and Usability Trade-offs
+Information Privacy
+
+Information privacy means protecting personal information from unauthorized access, use, or disclosure.
+
+It ensures that individuals have control over how their personal information is collected, stored, and used.
+
+Security–Usability Trade-off
+
+There is often a trade-off between system security and usability.
+
+Higher security → more restrictions and complexity → lower ease of use.
+Higher usability → simpler and easier access → potentially lower security.
+
+Example: A system requiring strong passwords, 2FA, and frequent verification is more secure but less convenient.
+
+Fake News and Disinformation
+Misinformation / Fake Information
+
+False or misleading information that is presented as factual, without necessarily intending to deceive or harm.
+
+Disinformation
+
+False or misleading information that is deliberately spread to deceive people.
+
+Difference
+
+Misinformation → False information, not necessarily intentional
+
+Disinformation → False information + deliberate intention to deceive
+
+Social Networking
+
+Social networking is the use of online platforms and websites to connect with people, build relationships, share information, and communicate.
+
+Examples
+Facebook
+Instagram
+YouTube
+WhatsApp
+X/Twitter
+Harmful Effects of Social Networking
+1. Addiction
+
+Excessive use can negatively affect well-being.
+
+2. Cyberbullying
+
+Social networks can facilitate harassment, threats, and humiliation online.
+
+3. Privacy Concerns
+
+Platforms may collect large amounts of personal data, which can potentially be misused or exposed through security breaches.
+
+4. Spread of False Information
+
+Social networks allow information to spread rapidly, including false or misleading information.
+
+Social Networking and Fake News
+
+Social networking platforms make information easy to share. This is useful for spreading important information but also allows fake news to spread rapidly and widely.
+
+Approaches to Computing Impacts
+1. Personal Impact
+
+Computing has enabled:
+
+Remote work
+Online communication
+Easy access to information
+Online education
+New forms of entertainment
+2. Ethical Impact
+
+Computing has created concerns about:
+
+Data privacy
+Ethical use of personal information
+Hacking
+Data breaches
+Responsible use of technology
+3. Social Impact
+
+Computing has changed how people communicate and interact.
+
+Examples include:
+
+Social media
+WhatsApp, Telegram, and WeChat
+Search engines
+Online education
+Digital communication
+4. Economic Impact
+
+Computing has affected the economy through:
+
+Increased Productivity
+
+Automation and data analysis make processes faster and reduce costs.
+
+Innovation
+
+Computing helps develop new products, services, and industries.
+
+Job Creation
+
+New technologies create new types of jobs and businesses.
+
+Cloud Computing
+
+Cloud computing provides businesses with flexible computing resources and creates new business opportunities.
+
+5. Cultural Impact
+
+Computing has changed:
+
+Communication
+Access to knowledge
+Entertainment
+Cultural interaction
+Learning
+
+Streaming services, gaming, social media, and the internet have created new forms of cultural expression and interaction.
+
+6. Impact on Globalization
+
+Computing, especially the internet, has made global interaction easier.
+
+It enables:
+
+Communication across countries
+Global collaboration
+Worldwide information sharing
+International business and transactions
+Reduced barriers of time and distance
+7. Impact on E-Commerce
+
+Computing and the internet allow businesses to reach customers around the world.
+
+Benefits include:
+
+Global customers
+Online buying and selling
+Access to international products
+New business opportunities
+Intellectual Property Protection
+
+Intellectual property (IP) protection safeguards creations of the mind, such as inventions, designs, and artistic works.
+
+Patent
+
+A patent is a legal right that gives an inventor exclusive rights to make, use, or sell an invention for a specified period.
+
+Trademark
+
+A trademark is a recognizable sign, design, name, or expression that distinguishes the goods or services of one source from others.
+
+Copyright
+
+Copyright gives the creator of an original work exclusive rights over its use and distribution, allowing the creator to receive recognition or compensation.
+
+⚡ Chapter 6 Ultra-Quick Revision
+
+6.1 Safety:
+Updates → Passwords → Phishing → Backup → Wi-Fi → Downloads → Privacy → Physical security → HTTPS
+
+6.2 Responsibility:
+Hardware maintenance → Data protection → Responsible upgrades → Laws → Ethics → Privacy → IP → Licensing
+
+6.3 Digital Platforms:
+Trusted searches → Privacy → Careful sharing → Safe interaction
+
+6.4 Laws:
+CFAA → Unauthorized access
+GDPR → Personal data
+DMCA → Copyright
+ECPA → Electronic communications
+PIPEDA → Canadian personal information
+COPPA → Children under 13
+Cybersecurity Law → Cyberspace/data
+
+6.5 Innovation:
+Hardware → Software → Emerging tech → HCI
+Benefits → Productivity, communication, information, medicine, transport, entertainment, education
+Harms → Privacy, well-being, environment, cybersecurity
+
+6.6 Malware:
+Virus → Spreads
+Ransomware → Ransom
+Trojan → Disguise
+Phishing → Tricks for information
+Hacking → Unauthorized access
+Spam → Unwanted messages
+Spyware → Secret collection
+Pharming → Fake-site redirection
+Cookies → Website information
+Scam → Deception
+Piracy → Unauthorized software
+
+Software:
+Freeware → Free
+Shareware → Trial/limited
+Open source → Source code accessible
+
+6.7:
+Privacy → Protect personal data
+Security ↔ Usability → More security usually means more restrictions
+Misinformation → False, not necessarily intentional
+Disinformation → False + deliberate
+Social networking → Connect/share/communicate
+Computing impacts → Personal, Ethical, Social, Economic, Cultural, Globalization, E-commerce
+Patent → Invention
+Trademark → Brand/sign
+Copyright → Original creative work
